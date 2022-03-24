@@ -6,7 +6,7 @@
 #['Hello', 'World', 'Huston', 'we', 'are', 'here'] -> ['here', 'are', 'we', 'Huston', 'World', 'Hello']
 #('Hello', 'World', 'Huston', 'we', 'are', 'here') should become -> ['World', 'Huston', 'we', 'are']
 #'Hello World Huston we are here' -> 'World Huston we' 
-
+#
 #Exercise 0.1
 
 from re import S

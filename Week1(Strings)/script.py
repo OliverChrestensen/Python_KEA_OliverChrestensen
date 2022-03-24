@@ -1,4 +1,4 @@
-#Strongly typed language 
+##Strongly typed language 
 #Dynamicly typed. 
 a = "Hello World"
 
